@@ -1,0 +1,3 @@
+H2 Access http://localhost:8080/h2-console
+Swagger Api Doc http://localhost:8080/swagger-ui.html
+Gmail Auth https://myaccount.google.com/u/2/lesssecureapps
